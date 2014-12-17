@@ -23,8 +23,8 @@ If you have found or written something especially insightful involving
 Metasploit, we'd love to hear about it! The procedure for review and
 inclusion is easy:
 
-1. [Fork] this repository
-1. Edit the appropriate category's corresponding [YAML][psych] file.
+1. [Fork] this repository.
+1. Edit the appropriate category's corresponding [YAML][psych] file in the [data] subdirectory.
 1. Create a pull request describing your resource addition.
 
 All suggestions need to include at least a URL, a date, a title, and an
@@ -45,5 +45,6 @@ site itself, feel free to [open an issue][issues].
   [psych]: https://github.com/tenderlove/psych
   [lmgtfy]: http://lmgtfy.com/?q=metasploit
   [issues]: [https://github.com/metasploit/resource-portal-data/issues]
+  [data]: [https://github.com/metasploit/resource-portal-data/blob/master/data]
   [getting-started]: [https://github.com/metasploit/resource-portal-data/blob/master/data/getting_started.yml]
   [pro-tips]: [https://github.com/metasploit/resource-portal-data/blob/master/data/pro_tips.yml]
