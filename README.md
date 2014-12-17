@@ -36,7 +36,7 @@ heart-felt commit message of thanks.
 
 ## Other suggestions
 
-If you have a more general bug or features to report or suggest for the
+If you have a more general bug or feature to report or suggest for the
 site itself, feel free to [open an issue][issues].
 
   [site]: https://metasploit.github.io
