@@ -24,7 +24,7 @@ Metasploit, we'd love to hear about it! The procedure for review and
 inclusion is easy:
 
 1. [Fork] this repository.
-1. Edit the appropriate category's corresponding [YAML][psych] file in the [data] subdirectory.
+1. Edit the appropriate category's corresponding [YAML][psych] file in the [data][data] subdirectory.
 1. Create a pull request describing your resource addition.
 
 All suggestions need to include at least a URL, a date, a title, and an
