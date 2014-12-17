@@ -1,0 +1,25 @@
+"common_issues":
+  date: 1970-01-01
+  comment: "
+    Discussions and solutions to the most common problems people
+    run into when developing or delivering exploits with Metasploit.
+    "
+
+"When Code Execution Becomes a Nightmare":
+  url: "https://community.rapid7.com/community/metasploit/blog/2012/07/06/stack-smashing-when-code-execution-becomes-a-nightmare"
+  date: 2012-07-06
+  type: blogpost
+  author: {name: "Wei Chen", twitter: "_sinn3r"}
+
+"Saving Shells with Prepend Migrate":
+  url: "http://www.scriptjunkie.us/2013/03/saving-shells-with-prependmigrate/"
+  date: 2013-03-24
+  type: blogpost
+  author: {name: "Matthew Weeks", twitter: "scriptjunkie"}
+
+"Installing Metasploit Framework on on OSX":
+  url: "http://www.darkoperator.com/installing-metasploit-framewor/"
+  date: 1970-01-01
+  type: text
+  author: {name: "Carlos Perez", twitter: "Carlos_Perez"}
+

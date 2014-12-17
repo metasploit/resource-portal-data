@@ -1,0 +1,28 @@
+"contributing":
+  date: 1970-01-01
+  comment: "
+    Have something to share? Sweet. Metasploit wouldn't be where it is
+    today without the hundreds of contributors who have pitched in over
+    the years.
+    "
+  author: {name: "Rapid7", twitter: "rapid7" }
+
+"CONTRIBUTING.md":
+  url: "http://r-7.co/MSF-CONTRIB"
+  comment: "
+    This is the purposefully short blurb that everyone who wants to file
+    an issue against the Metasploit Framework repo should have already
+    read. It even has a handy shortlink in the 'r-7.co' domain -- this
+    makes it easy for regular contributors can gently remind
+    would-be contributors to glance over it when submitting bugs and
+    features.
+    "
+  type: github
+  date: 2014-02-25
+  author: {name: "Metasploit", twitter: "metasploit" }
+
+"Style Tips for Writing Modules":
+  url: "https://github.com/rapid7/metasploit-framework/wiki/Style-Tips"
+  type: github
+  date: 2012-02-02
+  author: {name: "Metasploit", twitter: "metasploit" }

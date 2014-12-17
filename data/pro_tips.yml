@@ -1,0 +1,110 @@
+"pro_tips":
+  date: 1970-01-01
+  comment: "
+    Even if you're a seasoned Metasploit Framework user or
+    developer, these tips may still be new to you.
+    "
+  author: {name: "Rapid7", twitter: "rapid7" }
+
+"Information Gathering Using Metasploit":
+  url: "http://resources.infosecinstitute.com/information-gathering-using-metasploit/"
+  date: 1970-01-01
+  author: {name: "Chintan Gurjar", twitter: "chintan_gurjar" }
+
+"Finding Admin Access":
+  url: "http://www.room362.com/blog/2012/10/30/finding-admin-access/"
+  date: 2012-10-30
+  author: {name: "Rob Fuller", twitter: "mubix" }
+
+"PwnWiki: A Collection of Tools, Tactics and Procedures":
+  url: "http://pwnwiki.io/#!index.md"
+  date: 2013-11-24
+  type: wiki
+  author: {name: "Pwn Wiki Team", github: "pwnwiki" }
+
+"Pivoting in Metasploit":
+  url: "https://www.youtube.com/watch?v=MeSql-3aOsM"
+  date: 2014-04-14
+  type: video
+  author: {name: "Rob Fuller", twitter: "mubix" }
+
+"Add a New Exploit to the Metasploit Framework":
+  url: "https://www.youtube.com/watch?v=fxzLlkEnrjk"
+  date: 2013-10-13
+  type: video
+  author: {name: "Kumar Shubham", twitter: "hackah0lic"}
+
+"Linux Persistance":
+  url: "https://www.youtube.com/watch?v=bkfgPawWlQs"
+  date: 2014-04-07
+  type: video
+  author: {name: "Rob Fuller", twitter: "mubix" }
+
+"Resource Files":
+  url: "https://www.youtube.com/watch?v=TaaMSlHe67o"
+  date: 2014-03-11
+  type: video
+  author: {name: "Rob Fuller", twitter: "mubix" }
+
+"Exploitation Using Java RMI":
+  url: "https://www.youtube.com/watch?v=uH6capdxCWg"
+  date: 2014-03-31
+  type: video
+  author: {name: "Rob Fuller", twitter: "mubix" }
+
+"Getting a Remote Shell on an Android Device":
+  url: "http://www.infosecisland.com/blogview/23632-Getting-a-Remote-Shell-on-an-Android-Device-using-Metasploit.html"
+  date: 2014-02-19
+  type: blogpost
+  author: {name: "Dan Dieterle", twitter: "Cyberarms"}
+
+"How to Create a Meterpreter Backdoor":
+  url: "https://www.youtube.com/watch?v=oVuQUnXXeqI"
+  date: 2014-02-01
+  type: video
+  author: {name: "Matt Rynbrand", googleplus: "100313844089659008733"}
+
+"Heartbleed Hacking":
+  url: "https://www.youtube.com/watch?v=X7mRw8Dau7Y"
+  date: 2014-04-15
+  type: video
+  author: {name: "Dodgerz Gaara", facebook: "mrdodgerx"}
+
+"Utilizing Metasploit as a Login Scanner and Bruteforce Tool":
+  url: "http://pentestlab.org/utilizing-metasploit-as-a-login-scanner-and-as-a-brute-force-attack-tool/"
+  date: 2012-06-01
+  type: blogpost
+  author: {name: "Jay Turla"}
+
+"Bruteforce SSH":
+  url: "https://www.youtube.com/watch?v=PDTsl8myrMg"
+  date: 2012-03-09
+  type: video
+  author: {name: "Sumate Jitpukdebodin"}
+
+"Bruteforce SMB":
+  url: "https://sathisharthars.wordpress.com/2014/06/25/brute-force-smb-shares-in-windows-7-using-metasploit/"
+  date: 2014-06-25
+  type: blogpost
+  author: {name: "Sathish Arthar", twitter: "sathisharthars"}
+
+"Common Module Coding Mistakes":
+  url: "https://github.com/rapid7/metasploit-framework/wiki/Common-Metasploit-Module-Coding-Mistakes"
+  date: 2013-12-05
+  type: github
+  author: {name: "Wei Chen", twitter: "_sinn3r"}
+
+"Loading External Modules":
+  url: "https://github.com/rapid7/metasploit-framework/wiki/Loading-External-Modules"
+  date: 2013-07-05
+  type: github
+  author: {name: "Rapid7", twitter: "rapid7"}
+
+"Using Datastore Options":
+  url: "https://github.com/rapid7/metasploit-framework/wiki/How-to-use-datastore-options"
+  date: 2014-08-29
+  type: github
+  author: {name: "Wei Chen", twitter: "_sinn3r"}
+
+
+

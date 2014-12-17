@@ -1,0 +1,20 @@
+"meterpreter":
+  date: 1970-01-01
+  comment: "
+    Meterpreter is Metasploit's default payload, and is loaded with features
+    and quirks. These resource discuss some of those in more detail.
+    "
+
+"Sessiondump Extension":
+  url: "http://www.room362.com/blog/2013/04/08/sessiondump-meterpreter-extension/"
+  date: 2013-04-08
+  type: blogpost
+  author: {name: "Rob Fuller", twitter: "mubix" }
+
+"Mounting SMB Shares":
+  url: "http://www.room362.com/blog/2012/10/17/mounting-smb-shares-over-meterpreter/"
+  date: 2012-10-17
+  type: blog
+  author: {name: "Rob Fuller", twitter: "mubix" }
+
+

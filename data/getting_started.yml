@@ -1,0 +1,34 @@
+"getting_started":
+  date: 1970-01-01
+  comment: "
+    New to Metasploit? So was everyone, once. I mean, it would be weird to just
+    pop out of the clone vats and immediately start hacking the Matrix.
+    You'd have to be some kind of Chosen One.
+    "
+  author: {name: "Rapid7", twitter: "rapid7" }
+
+"Metasploit Framework Github Setup on Kali Linux":
+  url: "https://www.youtube.com/watch?v=IBGb_uOzJqs"
+  date: 2014-02-01
+  comment: '
+    Rob <a href="https://twitter.com/mubix">@mubix</a> Fuller
+    explains how to set up Metasploit Framework on a Kali
+    Linux installation using the GitHub distribution.
+    This is rather critical for getting started with Metasploit
+    Framework development on this favored hacker OS.
+    '
+  type: video
+  author: {name: "Rob Fuller", twitter: "mubix" }
+
+"Basic MSF Commands":
+  url: "https://www.youtube.com/watch?v=gWKyFYMY_Pk"
+  date: 2014-03-03
+  type: video
+  author: {name: "Rob Fuller", twitter: "mubix" }
+
+"What is Metasploit?":
+  url: "https://www.youtube.com/watch?v=TCPyoWHy4eA"
+  date: 2014-01-06
+  type: video
+  author: {name: "Rob Fuller", twitter: "mubix" }
+

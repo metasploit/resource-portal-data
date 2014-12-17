@@ -1,0 +1,30 @@
+"writing_modules":
+  date: 1970-01-01
+  comment: "
+    Getting down to the business of writing Metasploit modules
+    "
+
+"From Exploit to Metasploit":
+  url: "https://www.corelan.be/index.php/2009/08/12/exploit-writing-tutorials-part-4-from-exploit-to-metasploit-the-basics/"
+  date: 2009-08-12
+  type: text
+  author: {name: "Corelan Team", twitter: "corelanc0d3r"}
+
+"Getting Started with Writing Exploits":
+  url: "https://github.com/rapid7/metasploit-framework/wiki/How-to-get-started-with-writing-an-exploit"
+  date: 2014-07-31
+  type: github
+  author: {name: "Wei Chen", twitter: "_sinn3r"}
+
+"Getting Started with Writing Auxiliary Modules":
+  url: "https://github.com/rapid7/metasploit-framework/wiki/How-to-get-started-with-writing-an-auxiliary-module"
+  date: 2014-07-31
+  type: github
+  author: {name: "Wei Chen", twitter: "_sinn3r"}
+
+"Getting Started with Writing Post-Exploit Modules":
+  url: "https://github.com/rapid7/metasploit-framework/wiki/How-to-get-started-with-writing-a-post-module"
+  date: 2014-07-31
+  type: github
+  author: {name: "Wei Chen", twitter: "_sinn3r"}
+
