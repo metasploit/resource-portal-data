@@ -11,11 +11,10 @@
   url: "https://www.youtube.com/watch?v=IBGb_uOzJqs"
   date: 2014-02-01
   comment: '
-    Rob <a href="https://twitter.com/mubix">@mubix</a> Fuller
-    explains how to set up Metasploit Framework on a Kali
-    Linux installation using the GitHub distribution.
-    This is rather critical for getting started with Metasploit
-    Framework development on this favored hacker OS.
+    Rob Fuller explains how to set up Metasploit Framework on a Kali Linux
+    installation using the GitHub distribution.  This is rather critical for
+    getting started with Metasploit Framework development on this favored
+    hacker OS.
     '
   type: video
   author: {name: "Rob Fuller", twitter: "mubix" }
