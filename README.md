@@ -1,7 +1,7 @@
 # Metasploit Resource Portal Data
 
 This is the public repository for all the data that fuels the
-[Metasploit Resouce Portal][site], a community-driven effort
+[Metasploit Resource Portal][site], a community-driven effort
 to collect and highlight especially useful resources for [Metasploit
 Framework][framework] users and developers.
 
