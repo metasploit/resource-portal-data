@@ -25,7 +25,7 @@ inclusion is easy:
 
 1. [Fork] this repository.
 1. Edit the appropriate category's corresponding [YAML][psych] file in the [data] subdirectory.
-1. Create a pull request describing your resource addition.
+1. Create a [pull request][pulls] describing your resource addition.
 
 All suggestions need to include at least a URL, a date, a title, and an
 author. Follow the existing format, and you should be fine.
@@ -48,3 +48,4 @@ site itself, feel free to [open an issue][issues].
   [data]: https://github.com/metasploit/resource-portal-data/blob/master/data
   [getting-started]: https://github.com/metasploit/resource-portal-data/blob/master/data/getting_started.yml
   [pro-tips]: https://github.com/metasploit/resource-portal-data/blob/master/data/pro_tips.yml
+  [pulls]: https://github.com/metasploit/resource-portal-data/pulls
