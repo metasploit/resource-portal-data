@@ -25,6 +25,12 @@
   type: video
   author: {name: "Rob Fuller", twitter: "mubix" }
 
+"Manipulating multiple sessions and jobs":
+  url: "https://fadedlab.wordpress.com/2014/12/16/10/"
+  date: 2014-12-16
+  type: blogpost
+  author: {name: "Tom Sellers", twitter: "tomsellers" }
+
 "What is Metasploit?":
   url: "https://www.youtube.com/watch?v=TCPyoWHy4eA"
   date: 2014-01-06
