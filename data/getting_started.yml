@@ -37,3 +37,8 @@
   type: video
   author: {name: "Rob Fuller", twitter: "mubix" }
 
+"Setting Up a Database":
+  url: "https://fedoraproject.org/wiki/Metasploit_Postgres_Setup"
+  date: 2012-06-13
+  type: text
+  author: {name: "Fedora Project", twitter: "fedora" }
