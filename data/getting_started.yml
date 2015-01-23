@@ -42,3 +42,13 @@
   date: 2012-06-13
   type: text
   author: {name: "Fedora Project", twitter: "fedora" }
+
+"Metasploit: The Penetration Tester's Guide":
+  url: "http://www.nostarch.com/metasploit" # Alt: "http://isbn.nu/9781593272883"
+  type: book
+  comment: "
+    From No Starch Press, by David Kennedy, Jim O'Gorman,
+    Devon Kearns, and Mati Ahroni
+    "
+  author: {name: "Kennedy et al.", twitter: "nostarch" }
+  date: 2011-07-22
