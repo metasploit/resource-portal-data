@@ -39,7 +39,7 @@ heart-felt commit message of thanks.
 If you have a more general bug or feature to report or suggest for the
 site itself, feel free to [open an issue][issues].
 
-  [site]: https://metasploit.github.io
+  [site]: http://resources.metasploit.com
   [framework]: https://github.com/rapid7/metasploit-framework
   [fork]: https://guides.github.com/activities/forking/
   [psych]: https://github.com/tenderlove/psych
