@@ -6,6 +6,11 @@
     "
   author: {name: "Rapid7", twitter: "rapid7" }
 
+"Meterpreter Pivoting Techniques": 
+  url: "https://highon.coffee/blog/ssh-meterpreter-pivoting-techniques/" 
+  date: 2015-11-09 
+  author: {name: "Arr0way", twitter: "Arr0way" }
+
 "Information Gathering Using Metasploit":
   url: "http://resources.infosecinstitute.com/information-gathering-using-metasploit/"
   date: 1970-01-01
