@@ -111,5 +111,8 @@
   type: github
   author: {name: "Wei Chen", twitter: "_sinn3r"}
 
-
-
+"An analysis of the Metasploit Framework relative to the Penetration Testing Execution Standard (PTES) 1.0 guidance.":
+  url: "https://tinyurl.com/msf-ptes"
+  date: 2011-12-01
+  type: google
+  author: {name: "Brandon Perry", twitter: "brandonprry"}
